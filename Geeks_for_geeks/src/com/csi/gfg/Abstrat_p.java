@@ -8,5 +8,7 @@ public static void main(String[] args) {
 Abstrat_p1 p=new Abstrat_p1();
 p.show();
 System.out.println("New");
+
+System.out.println("het");
 }
 }
