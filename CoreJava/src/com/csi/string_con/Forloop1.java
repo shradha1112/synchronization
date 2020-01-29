@@ -10,6 +10,7 @@ public class Forloop1 {
 	}*/
 	
 	//program to achieve encapsulation
+	
 private int Id;
 private String Name;
 private float marks;
